@@ -1,0 +1,14 @@
+.unique {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.unique.one {
+    background-color: rgb(6, 5, 5);
+    color: aliceblue;
+    font-weight: bold;
+}
+
+.unique.two {
+    background-color: rgb(246, 246, 24);
+}
