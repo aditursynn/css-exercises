@@ -1,0 +1,19 @@
+.one {
+    background-color: #e97373;
+    font-family: Verdana, 'DejaVu sans', sans-serif;
+}
+
+.one.two {
+    font-size: 24px;
+}
+
+#first {
+    color: rgb(66, 66, 219);
+    font-size: 36px;
+}
+
+#another{
+    background-color: rgb(133, 235, 133);
+    font-size: 24px;
+    font-weight: bold;
+}
